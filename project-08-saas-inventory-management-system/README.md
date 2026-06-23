@@ -96,3 +96,57 @@ Low Stock Check
       │
       ▼
 Inventory Report
+
+---
+
+## Example Output
+
+===== INVENTORY DASHBOARD =====
+Products: 3
+Total Stock Units: 370
+Low Stock Products: 1
+Inventory Value: 84500.0
+
+---
+
+## Enterprise Use Cases
+
+* Retail Inventory
+* Warehouse Management
+* Procurement Systems
+* ERP Platforms
+* Supply Chain Operations
+* SaaS Inventory Products
+
+---
+
+## Skills Demonstrated
+
+* Java Development
+* OOP Design
+* Inventory Logic
+* Stock Movement Tracking
+* Reporting Systems
+* SaaS Product Engineering
+* SQL Modeling
+
+---
+
+## Future Enhancements
+
+* REST API
+* Database persistence
+* Barcode scanning
+* Multi-warehouse support
+* Supplier portal
+* Purchase order module
+* Inventory forecasting
+* Low stock email alerts
+
+---
+
+Author
+
+Alhanoof Alabdullah
+
+SaaS Product Engineering Portfolio Project
